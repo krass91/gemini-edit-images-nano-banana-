@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Image Editor",
+  "description": "An application that allows users to upload an image and use text prompts to edit it using the Gemini 2.5 Flash Image model. Users can apply filters, remove objects, or make other creative modifications.",
+  "requestFramePermissions": []
+}
